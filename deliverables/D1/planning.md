@@ -1,6 +1,6 @@
-# YOUR PRODUCT/TEAM NAME
+# Local Cluster DevSecOps/Low Level Lovers
 > _Note:_ This document will evolve throughout your project. You commit regularly to this file while working on the project (especially edits/additions/deletions to the _Highlights_ section). 
- > **This document will serve as a master plan between your team, your partner and your TA.**
+> **This document will serve as a master plan between your team, your partner and your TA.**
 
 ## Product Details
  
@@ -71,6 +71,10 @@ Briefly describe which option you have agreed to.
 ## Teamwork Details
 
 #### Q6: Have you met with your team?
+
+**TODO**
+ - [ ] Take picture of activity
+ - [ ] Get 3 fun facts from member in total
 
 Do a team-building activity in-person or online. This can be playing an online game, meeting for bubble tea, lunch, or any other activity you all enjoy.
 * Get to know each other on a more personal level.
